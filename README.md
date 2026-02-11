@@ -9,3 +9,4 @@
 ![Image alt](https://github.com/latisa-29/OOP_Latisa/blob/1d332de5ad2244db3dab32a7cbe91b0d619ae836/Screenshot%202026-02-06%20191550.png)
 ![Image alt](https://github.com/latisa-29/OOP_Latisa/blob/1d332de5ad2244db3dab32a7cbe91b0d619ae836/Screenshot%202026-02-06%20191559.png)
 ![Image alt](https://github.com/latisa-29/OOP_Latisa/blob/1d332de5ad2244db3dab32a7cbe91b0d619ae836/Screenshot%202026-02-06%20191605.png)
+![Image alt](https://github.com/latisa-29/OOP_Latisa/blob/main/Screenshot%202026-02-11%20082316.png?raw=true)
